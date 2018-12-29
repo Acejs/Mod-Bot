@@ -1,3 +1,2 @@
 # Modbot
-To set up the bot,
-simply type npm install!
+If you have any problems please contact me on discord Not Ace#0001!
